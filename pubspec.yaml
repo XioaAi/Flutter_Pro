@@ -30,7 +30,7 @@ dependencies:
   #pullToRefresh
   pull_to_refresh: ^1.5.5
   #网络请求
-  dio: ^2.1.16
+  dio: ">=2.1.16 <6.0.0"
   #WebView插件
   webview_flutter: ^0.3.13
 
